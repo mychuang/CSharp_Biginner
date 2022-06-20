@@ -5,3 +5,5 @@
 2. [Variable](02.md)
 
 3. [Dates & Time](03.md)
+
+4. [Operator](04.md)
