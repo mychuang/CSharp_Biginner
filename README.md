@@ -12,5 +12,6 @@
 
 5. [If-else & Switch](Basic/05.md)
 
+6. [Loop](Basic/06.md)
 
 ## UI
