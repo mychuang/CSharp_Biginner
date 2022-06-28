@@ -16,4 +16,6 @@
 
 7. [Array](Basic/07.md)
 
+8. [Methods](Basic/08.md)
+
 ## UI
