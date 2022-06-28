@@ -14,4 +14,6 @@
 
 6. [Loop](Basic/06.md)
 
+7. [Array](Basic/07.md)
+
 ## UI
